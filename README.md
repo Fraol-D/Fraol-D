@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ds47x&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Fraol-D&theme=dark&background=000000)](https://git.io/streak-stats)
 <p><a href="https://github.com/anuraghazra/github-readme-stats"> 
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Fraol-D&show_icons=true&theme=tokyonight" /> 
  </a></p>
